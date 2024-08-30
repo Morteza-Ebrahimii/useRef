@@ -42,6 +42,7 @@ function MyComponent() {
     }
 
     useEffect(() => {
+        console.log("do it");
     })
 
     return (
